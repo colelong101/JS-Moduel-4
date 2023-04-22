@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+.header {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.para {
+  text-align: center;
+  padding-top: 2rem;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.text {
+  color: yellow;
+  font-weight: 700;
+}
